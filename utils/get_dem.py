@@ -2,7 +2,6 @@
 ## creat: 2023.12.20  # modify: xxxx
 ## des: download dem data from OpenTopography World DEM
 
-
 import os
 import requests
 
