@@ -1,0 +1,17 @@
+name: ygp_water
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - ipykernel=7.3.0
+  - numpy=2.5.1
+  - pandas=3.0.3
+  - matplotlib=3.11.1
+  - geopandas=1.1.4
+  - rasterio=1.5.0
+  - cartopy=0.25.0
+  - folium=0.20.0
+  - pip=26.1.2
+  - pip:
+      - pyrsimg==1.1.6
